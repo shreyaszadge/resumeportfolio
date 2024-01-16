@@ -1,15 +1,46 @@
 ---
-title: "Demo Item 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Python core Notes"
+description: "Unlock the secrets of Python programming with our meticulously crafted Python Core Notes – your ultimate guide to mastering the essentials of this versatile language! 📚💻
+"
 custom_link_label: "Live Preview"
-custom_link: "https://demourl.com/"
-updatedDate: "Sep 15 2022"
-pricing: "$15"
-badge: "Featured"
-checkoutUrl: "https://checkouturl.com/"
-heroImage: "/itemPreview.webp"
+custom_link: "https://drive.google.com/file/d/15TzkFPGwz9dksI-DACij60NFxSJkrFNP/view?usp=sharing"
+updatedDate: "Jan 10 2024"
+pricing: "$ 0"
+badge: "Notes   "
+checkoutUrl: "https://drive.google.com/file/d/15TzkFPGwz9dksI-DACij60NFxSJkrFNP/view?usp=sharing"
+heroImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lmEDwiVEYtBGr35cLhC56C_KtOHl2le_3w&usqp=CAU"
 ---
+🐍 Master Python Core: Comprehensive Notes for Success! 🚀
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Unlock the secrets of Python programming with our meticulously crafted Python Core Notes – your ultimate guide to mastering the essentials of this versatile language! 📚💻
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+🌟 What's Inside:
+
+✅ Thorough Coverage: From the basics of variables and data types to advanced concepts like decorators and generators, our notes cover every aspect of Python's core features.
+
+✅ Real-world Examples: Dive into practical examples that illustrate how to apply Python concepts in real coding scenarios. Gain hands-on experience and build confidence in your coding skills.
+
+✅ Problem-Solving Techniques: Tackling challenges head-on is key to mastering Python. Our notes provide a wealth of problem-solving techniques and tips to enhance your coding proficiency.
+
+✅ Concise and Clear: No fluff, just focused content. Each concept is presented in a clear and concise manner, making your learning journey efficient and effective.
+
+🚀 Why Choose Our Python Core Notes?
+
+👩‍💻 Created by Experts: Crafted by experienced Python developers, these notes reflect industry best practices and insights to help you succeed.
+
+🌐 Suitable for All Levels: Whether you're a beginner or looking to deepen your Python expertise, our notes cater to all levels of learners.
+
+📈 Invest in Your Future: Acquiring a solid understanding of Python's core is an investment in your programming future. Stand out in interviews, excel in projects, and elevate your coding career.
+
+🎁 Bonus Resources: Along with the core notes, enjoy additional resources such as cheat sheets, practice exercises, and a curated list of recommended further readings.
+
+📦 How to Get Your Copy:
+
+Secure your Python Core Notes today and embark on a journey towards Python mastery! 🚀🐍
+
+
+📧 Customer Support:
+
+Have questions or need assistance? Our dedicated support team is ready to help. Reach out to zadgeshreyas@gmail.com.
+
+Level up your Python skills now – because true mastery starts with a strong foundation! 💪🔒 #PythonMastery #CodingSuccess #PythonCoreNotes 🚀📚
